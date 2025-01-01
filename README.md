@@ -15,7 +15,7 @@
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab5'>Lab5 - HTML Form</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://kyl67899.github.io/webDev_Project1/index.html'>Project 1 - Basic HTML Project</a> | Beginner            | HTML    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab6'>Lab6 - CSS style</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab7'>Lab7 - Style an HTML Table</a> | Beginner            | HTML, CSS    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/Web_lab7'>Lab7 - Style an HTML Table</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab8'>Lab8 - Added sidebar and nav</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webDev_Project2'>Project 2 - Added CSS to Project 1</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab9'>Lab9 - Basic of JS</a> | Junior            | HTML, CSS, JS    | `Completed`
